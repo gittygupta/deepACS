@@ -1,0 +1,6 @@
+fastai
+numpy
+cv2
+pyautogui
+mss
+pillow
